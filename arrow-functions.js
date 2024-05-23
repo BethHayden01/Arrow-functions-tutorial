@@ -5,6 +5,8 @@
 
 // Vanilla JavaScript Function
 
+//Vanilla JS uses the function keywork to define functions as shown below.
+
 //function addTwoNumbers(a,b) {
     //code block
  //   return a + b;
